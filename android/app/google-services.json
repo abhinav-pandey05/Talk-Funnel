@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682464563008",
+    "firebase_url": "https://talk-funnel-18621.firebaseio.com",
+    "project_id": "talk-funnel-18621",
+    "storage_bucket": "talk-funnel-18621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682464563008:android:13b3c8138a051baa",
+        "android_client_info": {
+          "package_name": "com.example.talkfunnel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682464563008-fp1g4j1oji26mch3nl93q77fn16qe1pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkfunnel",
+            "certificate_hash": "521d8ae21aac3ee3aae5ed01261d5f4caa056a58"
+          }
+        },
+        {
+          "client_id": "682464563008-cb2igp46jmj8lnmurk6nn956fppg0uel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRPY9MtKlvMLEVpZRJHTwHFOWvqq0pTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682464563008-cb2igp46jmj8lnmurk6nn956fppg0uel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
